@@ -1,0 +1,16 @@
+baseURL = "http://localhost:5000"
+disablePathToLower = true
+languageCode = "en-us"
+title = "Batista R. Harahap"
+theme = "bhugo"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[permalinks]
+  posts = "/:slug"
+
+[Author]
+  name = "Batista Harahap"
