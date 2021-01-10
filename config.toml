@@ -1,7 +1,7 @@
 baseURL = "http://localhost:5000"
 disablePathToLower = true
 languageCode = "en-us"
-title = "Batista R. Harahap"
+title = "Batista Harahap"
 theme = "bhugo"
 
 [markup]
@@ -14,3 +14,4 @@ theme = "bhugo"
 
 [Author]
   name = "Batista Harahap"
+
