@@ -3,6 +3,10 @@ disablePathToLower = true
 languageCode = "en-us"
 title = "Batista Harahap"
 theme = "bhugo"
+DefaultContentLanguage = "en"
+disqusShortname = "bango29"
+# pygmentsCodeFences = true
+# pygmentsUseClasses = true
 
 [markup]
   [markup.goldmark]
@@ -14,4 +18,13 @@ theme = "bhugo"
 
 [Author]
   name = "Batista Harahap"
+  email = "b@tista.me"
+  twitter = "tista"
+  github = "tistaharahap"
+  linkedin = "tista"
+  soundcloud = "tistaharahap"
 
+[Params]
+  useHLJS = true
+  logo = "/content/images/tista.jpg"
+  readingTime = true
