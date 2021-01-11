@@ -5,8 +5,8 @@ title = "Batista Harahap"
 theme = "bhugo"
 DefaultContentLanguage = "en"
 disqusShortname = "bango29"
-# pygmentsCodeFences = true
-# pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsUseClasses = true
 
 [markup]
   [markup.goldmark]
@@ -27,4 +27,3 @@ disqusShortname = "bango29"
 [Params]
   useHLJS = true
   logo = "/content/images/tista.jpg"
-  readingTime = true
