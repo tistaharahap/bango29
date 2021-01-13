@@ -27,3 +27,4 @@ pygmentsUseClasses = true
 [Params]
   useHLJS = true
   logo = "/content/images/tista.jpg"
+  selfHosted = true
