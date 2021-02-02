@@ -42,17 +42,13 @@ A lot of apps is running including Pycharm along with the Photos app curating my
 
 The SoC temperature is sitting between high 30s and mid 40s degrees Celcius. Also, there are no fans, it's quiet. To be fair, I'm not coding mobile apps so resource usages are not demanding. Xcode is obviously native M1 while Android Studio still don't have an M1 build yet. [Here's a good read](https://blog.metaobject.com/2020/11/m1-memory-and-performance.html) about Apple's choice in opting for Reference Counting instead of Garbage Collection dramatically increasing the whole user experience while for developers, the implementation is no different (yes apples to oranges, almost literally) programmatically.
 
-```
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">fun fact:  retaining and releasing an NSObject takes ~30 nanoseconds on current gen Intel, and ~6.5 nanoseconds on an M1</p>— David Smith  (@Catfish_Man) <a  href="https://twitter.com/Catfish_Man/status/1326238434235568128?ref_src=twsrc%5Etfw">November 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"  charset="utf-8"></script> 
-```
 
 The tweet above taken from the article I linked. With almost 5x faster in doing atomic functions, the effect in the whole user experience of an M1 hardware is a departure from the old incremental performance improvements pioneered by Intel.
 
 Single core performance of this laptop is faster than my high end gaming PC with a Ryzen 5600X CPU according to Geekbench.
 
-```
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">MacBook Air M1’s  single core score outperforms my gaming rig, crazy af <a  href="https://t.co/TUvpiiiYXs">https://t.co/TUvpiiiYXs</a></p>— Batista Harahap (@tista) <a  href="https://twitter.com/tista/status/1356531756887756802?ref_src=twsrc%5Etfw">February 2, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"  charset="utf-8"></script> 
-```
 
 Coming from an Intel machine, even this Air is pro level experience that I don't get with a top of the line 16" i9 MacBook Pro. All this with a price substantially cheaper than a Pro machine. Imagine how a true Pro Apple Sillicon machine will give us!
 
