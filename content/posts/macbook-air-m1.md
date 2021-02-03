@@ -117,7 +117,7 @@ $ brew install iterm2
 
 ---
 
-For now I'm ending this blog post with as a satisfied software engineer. It's the kind of pro experience any pro user would expect from a Mac device. The given expectation of getting a pro machine from Apple being an actual pro machine is now real again after a long long long wait period thanks to Intel's monkey business. Don't forget this is a MacBook Air, not a Pro, no fans FTW!
+For now I'm ending this blog post as a satisfied software engineer. It's the kind of pro experience any pro user would expect from a Mac device. The given expectation of getting a pro machine from Apple being an actual pro machine is now real again after a long long long wait period thanks to Intel's monkey business. Don't forget this is a MacBook Air, not a Pro, no fans FTW!
 
 One more thing, battery life is indisputedly the best I've ever owned.
 
