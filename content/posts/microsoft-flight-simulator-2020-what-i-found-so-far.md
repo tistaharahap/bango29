@@ -16,7 +16,7 @@ Since the game launched in August 2020, this has been the game I spent time the 
 
 ## In Game Performance Tuning
 
-I tried playing the game [with an i7-8700K, Ryzen 3700X and Ryzen 5600X paired with an Nvidia RTX 3080]. Then I sold the 3080 and instead bought an XFX Merc 319 Radeon 6900XT Black Edition. The 3080 was a lower powered AIB card, it wasn't performing as I would expected a 3080 would be.
+I tried playing the game [with an i7-8700K, Ryzen 3700X and Ryzen 5600X paired with an Nvidia RTX 3080](https://bango29.com/microsoft-flight-simulator-8700k-3700x-5600x-with-an-rtx-3080/). Then I sold the 3080 and instead bought an XFX Merc 319 Radeon 6900XT Black Edition. The 3080 was a lower powered AIB card, it wasn't performing as I would expected a 3080 would be.
 
 My final build and suggestion is to go AMD all the way to get the best experience. Turn on [Smart Access Memory](https://www.techspot.com/article/2178-amd-smart-access-memory/) from BIOS, tune the card (OC) and get a 3600MHz RAM at the minimum.
 
