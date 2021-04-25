@@ -3,6 +3,7 @@ author = "Batista Harahap"
 categories = ["mac", "windows", "laptop", "change"]
 date = 2021-04-18T16:14:00Z
 description = ""
+image = "/content/images/2021/04/macwin.png"
 draft = true
 slug = "mac-to-windows-in-2021"
 tags = ["mac", "windows", "laptop", "change"]
@@ -82,8 +83,10 @@ This is a fine build, the carbon finish for the keyboard surroundings is spot on
 
 ---
 
-In closing, I decided to sell this laptop after only using it for a while. It's not this laptop's fault, it's more to the integration between hardware and software. There are just way too many small things to appreciate from a Mac. 
+In closing, I decided to sell this laptop after only using it for a short while. It's not this laptop's fault, it's more to the integration between hardware and software. There are just way too many small things to appreciate from a Mac. 
 
 A terminal is the best remote control ever coupled with SSH, when doing development work, other than the IDE, this is my most used app. Copy pasting with `Ctrl + Shift + C/V` is not natural, mouse's right click is making me grab my mouse instead of focusing on my keyboard. This alone disrupted my productivity a number of times. Sure we can remap with [Kinto.sh](kinto.sh) to make itu work more like a Mac but it's not consistent between apps. Whether in Windows or Linux, this is a fact.
 
-Only Apple who can integrate their OS and their hardware oh so eloquently, I don't think any other manufacturer can. Is it worth the Apple Tax? Well for M1 macs it's not applicable, it's relatively cheaper if you're living in country where you can customize your mac purchase. In Indonesia though, that tax is real but not from Apple, from the Sellers. 
+Only Apple who can integrate their OS and their hardware oh so eloquently, I don't think any other manufacturer can. Is it worth the Apple Tax? Well for M1 macs it's not applicable, it's relatively cheaper if you're living in a country where you can customize your mac purchase. In Indonesia though, that tax is real but not from Apple, from the Sellers. I eventually got myself another Macbook Air M1 but this time with a 16GB RAM which works well for my workflow.
+
+I tried to use Windows but it's just not my thing. The compatibility issues with Python libraries are still there for the M1, community support is still trailing but eventually we'll get there. In the meantime, I can live without `py-spy`.
