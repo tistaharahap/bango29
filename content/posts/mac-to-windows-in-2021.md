@@ -78,3 +78,12 @@ The keyboard though when used is a pleasure to type on with. Compared to a Macbo
 
 Speakers though, it's another story. Not the best. Pumping the volume to 50% or more, it sounds like a blown speaker although not so blown. The internal mic is also not the best, I have found a number of times I got complains from people conferencing with me that my voice is not being heard. I had to come close to the laptop more than I had to usually.
 
+This is a fine build, the carbon finish for the keyboard surroundings is spot on.
+
+---
+
+In closing, I decided to sell this laptop after only using it for a while. It's not this laptop's fault, it's more to the integration between hardware and software. There are just way too many small things to appreciate from a Mac. 
+
+A terminal is the best remote control ever coupled with SSH, when doing development work, other than the IDE, this is my most used app. Copy pasting with `Ctrl + Shift + C/V` is not natural, mouse's right click is making me grab my mouse instead of focusing on my keyboard. This alone disrupted my productivity a number of times. Sure we can remap with [Kinto.sh](kinto.sh) to make itu work more like a Mac but it's not consistent between apps. Whether in Windows or Linux, this is a fact.
+
+Only Apple who can integrate their OS and their hardware oh so eloquently, I don't think any other manufacturer can. Is it worth the Apple Tax? Well for M1 macs it's not applicable, it's relatively cheaper if you're living in country where you can customize your mac purchase. In Indonesia though, that tax is real but not from Apple, from the Sellers. 
