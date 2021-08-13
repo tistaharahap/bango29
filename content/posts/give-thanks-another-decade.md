@@ -17,6 +17,8 @@ I had fun throughout the last 2 decades, I really did, and to top it off everyth
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0C58ttB2-Qg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+In this post, there will be plenty of me talking about myself, I hope it will be entertaining. It comes from a place of love.
+
 ## Decade 0
 
 Being a software engineer, numbers start from 0 for me and it sort of fit nicely in this post's progression. At the time, I was pursuing higher education at [Universitas Bina Nusantara](https://binus.ac.id/) with a double degree program in Mathematics and Computer Science. This was exciting for me, I learned programming from when I was much much younger and going to this place should validate me right? Or at least that was what I had in mind.
@@ -74,7 +76,7 @@ Like clockwork, without me realizing, I was drawn to the challenge of education 
 
 The year 2020 as we all know is the year when the world paused for a few months. At this time, I decided to stop working and immersed myself with what to do next. I never really give much thought about what to do next, I tried other things I haven't really focused on before. It was great for a while but I find myself less of an impact and it brought me into an endless spiral of questioning myself, especially; who am I?
 
-Although this decade started a few years before 2020 or at least how it is in my head, in end of 2019 through the whole 2020, I bought myself some time to think. I wasn't so lucky in the previous decades, everything just happens and I follow through. It got me to places but in retrospect I was barely in control of the direction. I didn't want that for this decade, I had to dig down and ask hard questions to myself.
+Although this decade started a few years before 2020 or at least how it is in my head, in end of 2019 through the whole of 2020, I bought myself some time to think. I wasn't so lucky in the previous decades, everything just happens and I follow through. It got me to places but in retrospect I was barely in control of the direction. I didn't want that for this decade, I had to dig down and ask hard questions to myself.
 
 The hardest question I've shared in the first paragraph, who am I? As do with other complicated problems, the best answer is usually simple and easy to explain. I'm a father, there's no joy in me in any other answer I've contemplated. Since knowing I'm becoming a father, I took greater risks because I understood there's no change without risks. My son is my catalyst. This will never change.
 
@@ -82,4 +84,13 @@ I'm not proud of the father I was but I can change that. Small things like check
 
 Programming has been part of my identity ever since I was little but more true I feel is tinkering. That curiousity you get when you want to understand something is addictive. I never had problems with loneliness, there was just too many unknowns in the world to explore. On a Monday afternoon I can help a junior engineer with his programming troubles yet in the night I'm learning how to flare an airplane just before touching down to the ground. There's an infinite number of knowledge one can accummulate in a lifetime.
 
-Knowing something is not the same with experiencing something and each is dependent of each other to master a skill. For almost 30 years I've been in love with programming and to a larger extent, how computing works, this will never fade, ever. 
+Knowing something is not the same with experiencing something and each is dependent of each other to master something. For almost 30 years I've been in love with programming and to a larger extent, how computing works, this will never fade, ever. But this is not my only curiousity in life, I learned the discipline of learning from it and it's good timing to apply the same discipline to other curiousities.
+
+In 2019, I wanted my son to get an education abroad when he's 7 year old. I didn't do much about it. But that drive and desire to let my son get a much better education than I did is strong. I want him to feel good about himself, that in my opinion is much more important than the education itself.
+
+I was lucky I had (have?) a huge ego with enough ignorance because I believe in myself more than anyone else. I need to infect my son with that blend of ego, ignorance and self awareness. The best way is to let my son be surrounded with like minded people. It's ok to not be anyone else but ourselves.
+
+December 2020, [Fauzan Emmerling](https://twitter.com/femmerling) and I had a conversation about his plans to receive an offer in Dubai. I poured him with congratulatory comments, I was happy and proud that someone I'm  close to got his dream move, even happier for his family. Then, he asked me to join him, I didn't flinch saying yes to his invitation. *Thank you* for your trust Jan!
+
+Long story short, I became the third Indonesian to be hired in the company. Just like that, my desire to have my son be educated abroad came true, exactly when he's 7 years old. This is the definition Decade 2.
+
