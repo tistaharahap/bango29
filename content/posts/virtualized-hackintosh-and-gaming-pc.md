@@ -11,7 +11,6 @@ title = "Virtualized Hackintosh and Gaming PC"
 
 +++
 
-# Virtualized Hackintosh and Gaming PC
 
 I have installed hackintoshes since the very beginning on a Core2Duo laptop. Back then the term was OSX86 and the only way to get the OS is through torrent downloads. Since then I've built hackintoshes especially when Intel Macbook Pros are so pro. I can't believe all these years I never tried to do the virtualization route. The past few years, my hackintoshes were always a dedicated PC separate from my gaming PC because Nvidia GPUs have no hope in hackintoshes, now it changes.
 
