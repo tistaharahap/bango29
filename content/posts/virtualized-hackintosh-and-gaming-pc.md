@@ -1,7 +1,7 @@
 +++
 author = "Batista Harahap"
 categories = ["hackintosh", "windows", "virtualization", "proxmox", "vm"]
-date = 2022-01-27T23:08:44Z
+date = 2022-01-27T16:08:44Z
 description = ""
 draft = false
 image = "/images/2022/01/virt-explained.jpg"
