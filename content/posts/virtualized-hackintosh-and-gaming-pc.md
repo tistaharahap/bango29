@@ -4,10 +4,10 @@ categories = ["hackintosh", "windows", "virtualization", "proxmox", "vm"]
 date = 2022-01-27T23:08:44Z
 description = ""
 draft = false
+image = "/images/2022/01/virt-explained.jpg"
 slug = "virtualized-hackintosh-and-gaming-pc"
 tags = ["hackintosh", "windows", "virtualization", "proxmox", "vm"]
 title = "Virtualized Hackintosh and Gaming PC"
-image = "/images/2022/01/virt-explained.jpg"
 
 +++
 
