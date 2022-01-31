@@ -5,7 +5,7 @@ date = 2022-01-31T15:53:44Z
 description = ""
 draft = false
 image = "/images/2022/01/yeah-right.jpg"
-slug = "virtualized-hackintosh-and-gaming-pc"
+slug = "hackintosh-virtualized-vs-bare-metal"
 tags = ["hackintosh", "windows", "virtualization", "proxmox", "vm"]
 title = "Hackintosh: Virtualized VS Bare Metal"
 
