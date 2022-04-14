@@ -1,4 +1,3 @@
-baseURL = "http://localhost:5000"
 disablePathToLower = true
 languageCode = "en-us"
 title = "Batista Harahap"
