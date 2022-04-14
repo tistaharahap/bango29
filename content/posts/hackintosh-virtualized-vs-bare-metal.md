@@ -4,7 +4,7 @@ categories = ["hackintosh", "windows", "virtualization", "proxmox", "vm"]
 date = 2022-01-31T15:53:44Z
 description = ""
 draft = false
-image = "/images/2022/01/yeah-right.jpg"
+image = "/content/images/2022/01/yeah-right.jpg"
 slug = "hackintosh-virtualized-vs-bare-metal"
 tags = ["hackintosh", "windows", "virtualization", "proxmox", "vm"]
 title = "Hackintosh: Virtualized VS Bare Metal"
@@ -95,4 +95,4 @@ Much of what I just said is against virtualizing macOS but I'm happy to be prove
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Said goodbye to my hackintosh and Air M1 last week, the new 16&quot; Macbook Pro vindicated that decision. It&#39;s on a league of its own, truly. For a software engineer M1 Pro is plenty. Just 1 machine for work and home, at last after a long wait.</p>&mdash; Batista Harahap (@tista) <a href="https://twitter.com/tista/status/1456993405800783877?ref_src=twsrc%5Etfw">November 6, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-![Yeah right!](/images/2022/01/yeah-right.jpg)
+![Yeah right!](/content/images/2022/01/yeah-right.jpg)
