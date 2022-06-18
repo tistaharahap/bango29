@@ -72,15 +72,15 @@ The monitor I want to scale is my Xiaomi 34" Ultrawide, it's native resolution i
 
 For SwitchResX to work, make sure you `Install Helper Tools` and `Launch Daemon`. Also look to launch daemon at startup.
 
-![/content/images/2022/06/sx-daemon-helpers.png](SwitchResX Pre-Requisites)
+![SwitchResX Pre-Requisites](/content/images/2022/06/sx-daemon-helpers.png)
 
 Next we need to create a Custom Scaled Resolution. Select your monitor, mine is named `Mi Monitor` on the bottom left. Then go to the `Custom Resolution` tab.
 
-![/content/images/2022/06/sx-custom-res.png](SwitchResX Custom Resolution)
+![SwitchResX Custom Resolution](/content/images/2022/06/sx-custom-res.png)
 
 Click on the `+` sign on the bottom left and input your desired custom scaled resolution. Quit SwitchResX and you will be asked to save the modifications. Afterwards just restart. Once you're back in go to `System Preferences > Displays`.
 
-![/content/images/2022/06/displays.png](macOS Displays)
+![macOS Displays](/content/images/2022/06/displays.png)
 
 Now the halved resolution (2x Retina) is available and marked as HiDPI. Some monitors will not show these resolutions and will instead have options of Smaller or Larger Texts. I think you can improvise there.
 
