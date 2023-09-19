@@ -7,6 +7,10 @@ disqusShortname = "bango29"
 pygmentsCodeFences = true
 pygmentsUseClasses = true
 
+[params.twitter]
+  creator = "tista"
+  site = "https://twitter.com/tista"
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
