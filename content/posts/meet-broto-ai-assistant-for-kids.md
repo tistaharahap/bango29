@@ -4,7 +4,7 @@ author = "Batista Harahap"
 draft = false
 date = 2024-05-19T15:45:56+04:00
 image = ""
-slug = "calling-dubai-home"
+slug = "broto-ai-assistant"
 tags = ["broto", "ai", "assistant", "kids"]
 categories = ["broto", "ai", "assistant", "kids"]
 
