@@ -1,7 +1,7 @@
 +++
 author = "Batista Harahap"
 categories = ["llm", "openwebui", "ai", "saas", "hosting", "litellm", "coolify"]
-date = 2025-04-25T07:37:16Z
+date = 2025-04-25T06:37:16Z
 description = "This is a writing about getting things done more than it is a showcase of a new business and the tech empowering it. Within this, an attempt to explain the why will also be written. But before all that, I'm going to try to look cool first so get ready for some cringe moments."
 draft = false
 slug = "sleekchat-research-to-production-in-1-week"
