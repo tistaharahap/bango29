@@ -57,7 +57,7 @@ One of the promise of LLMs or AI is to bring prosperity to the world so I though
 
 There's a business to be built here I thought.
 
-Spent an hour with @kresnahendri to talk about this and we both came to the same conclusion: someone has to do it. It became more than just building a business, it became more like a mission for us. Especially when we look at the pricing of AI products, it's absurd. It's fair game to cash out on the AI boom of course, I mean look at Nvidia, they basically screwed over gamers who made them big in the first place? I suppose the premium is carried forward from the fundamental to the end user.
+Spent an hour with [@kresnahendri](https://x.com/kresnahendri) to talk about this and we both came to the same conclusion: someone has to do it. It became more than just building a business, it became more like a mission for us. Especially when we look at the pricing of AI products, it's absurd. It's fair game to cash in on the AI boom of course, I mean look at Nvidia, they basically screwed over gamers who made them big in the first place? I suppose the premium is carried forward from the fundamental to the end user.
 
 We (Kresna and I) think because of LLMs, knowledge will be extremely personal and enriching of what you already know. The advent of the Internet many years ago have made knowledge almost universal, you just have to know where to look. Hence, the rise of Google. But with LLMs, knowledge is as universal as it is personal. Open WebUI enables that with its core features.
 
@@ -98,7 +98,7 @@ Another thing I make use of from Open WebUI is called `Tools`. With it, we have 
 
 I have my own locally deployed [SearxNG](https://x.com/searxng) installation and using this means the search results comes from search engines I've configured it with. Think of it as an aggregator of search results.
 
-The cool kids might see this like an MCP (Model Context Protocol) and it's half right. The difference being this is not a standardized like how MCP is. Sweat not, Open WebUI does support MCP servers and SleekChat plans to support them too down the road in a way that is plug n play for the common users (or not).
+The cool kids might see this like an MCP (Model Context Protocol) and it's half right. The difference being this is not standardized like how MCP is. Sweat not, Open WebUI does support MCP servers and SleekChat plans to support them too down the road in a way that is plug n play for the common users (or not).
 
 Now the tools at my disposal to build is complete. Here's a screenshot of my first conversation:
 
