@@ -37,7 +37,7 @@ More about the tech stuffs later.
 
 ## Open WebUI
 
-I've been using Open WebUI since their 0.1.x release, the way the contributors pushed through the bleeding edge is admirable. I would go as far as to say, they're an inspiration. They release features with much fuss, they just do it, the train keeps going forward. All my LLM/AI research started with Open WebUI, I developed and experimented there first before writing codes.
+I've been using Open WebUI since their 0.1.x release, the way the contributors pushed through the bleeding edge is admirable. I would go as far as to say, they're an inspiration. They release features without much fuss, they just do it, the train keeps going forward. All my LLM/AI research started with Open WebUI, I developed and experimented there first before writing codes.
 
 Having the ability to create my own models based on Claude, ChatGPT, Gemini, Ollama and everything else in between is helpful if not fundamental. It made me realize, non-tech people wouldn't be able to enjoy the power of Open WebUI without someone like me helping them.
 
