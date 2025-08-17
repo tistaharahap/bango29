@@ -103,6 +103,11 @@ params:
     minMatchCharLength: 0
     keys: ["title", "permalink", "summary", "content"]
 
+# Google Analytics
+services:
+  googleAnalytics:
+    ID: "G-R6PTC8MM1N" # Replace with your GA4 measurement ID
+
 # Author information
 author:
   name: "Batista Harahap"

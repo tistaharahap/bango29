@@ -1,0 +1,16 @@
+{{- $ga := site.Config.Services.GoogleAnalytics -}} {{- if $ga.ID -}} {{-
+$privacy := site.Config.Privacy.GoogleAnalytics -}} {{- if not $privacy.Disable
+-}}
+<!-- Google Analytics -->
+<script
+  async
+  src="https://www.googletagmanager.com/gtag/js?id={{ $ga.ID }}"
+></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', '{{ $ga.ID }}'{{ if $privacy.AnonymizeIP }}, { 'anonymize_ip': true }{{ end }});
+</script>
+{{- end -}} {{- end -}}
