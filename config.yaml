@@ -1,0 +1,113 @@
+baseURL: "https://bango29.com"
+languageCode: "en-us"
+title: "Batista Harahap"
+theme: ["PaperMod"]
+defaultContentLanguage: "en"
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+
+disablePathToLower: true
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
+    codeFences: true
+    guessSyntax: true
+    lineNos: true
+    style: github
+
+permalinks:
+  posts: "/:slug/"
+
+taxonomies:
+  category: categories
+  tag: tags
+
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 30
+
+params:
+  env: production
+  title: "Batista Harahap"
+  description: "Personal blog of Batista Harahap - Technology, Development, and Life"
+  keywords:
+    [Blog, Portfolio, Technology, Development, Startups, Mobile, Programming]
+  author: "Batista Harahap"
+
+  # Theme behavior
+  showToc: false
+  tocOpen: false
+  hidemeta: false
+  disableShare: false
+  comments: true
+
+  # Home page behavior
+  homeInfoParams:
+    Title: "Hi 👋"
+    Content: "I'm Tista, I write about tech, music and life."
+    imageUrl: "/content/images/tista.jpg"
+    imageWidth: 120
+    imageHeight: 120
+    imageTitle: "Batista Harahap"
+
+  # Social metadata
+  images: ["/content/images/tista.jpg"]
+
+  # Comments system
+  disqusShortname: "bango29"
+
+  # Social links
+  socialIcons:
+    - name: "twitter"
+      url: "https://twitter.com/tista"
+    - name: "github"
+      url: "https://github.com/tistaharahap"
+    - name: "linkedin"
+      url: "https://linkedin.com/in/tista"
+    - name: "soundcloud"
+      url: "https://soundcloud.com/tistaharahap"
+    - name: "rss"
+      url: "/index.xml"
+
+  # Performance and assets
+  assets:
+    disableHLJS: false
+    disableFingerprinting: false
+
+  # Search
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
+# Author information
+author:
+  name: "Batista Harahap"
+  email: "b@tista.me"
+  twitter: "tista"
+  github: "tistaharahap"
+  linkedin: "tista"
+  soundcloud: "tistaharahap"
