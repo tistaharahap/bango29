@@ -1,7 +1,9 @@
 [phases.setup]
 cmds = [
-  "wget -O hugo.deb https://github.com/gohugoio/hugo/releases/download/v0.148.2/hugo_extended_0.148.2_linux-amd64.deb",
-  "dpkg -i hugo.deb"
+  "wget -O /tmp/hugo.deb https://github.com/gohugoio/hugo/releases/download/v0.148.2/hugo_extended_0.148.2_linux-amd64.deb",
+  "dpkg -i /tmp/hugo.deb || true",
+  "apt-get update && apt-get install -f -y",
+  "which hugo && hugo version"
 ]
 
 [ phases.build ]
