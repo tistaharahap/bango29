@@ -49,32 +49,37 @@ params:
   env: production
   title: "Batista Harahap"
   description: "Personal blog of Batista Harahap - Technology, Development, and Life"
-  keywords: [Blog, Portfolio, Technology, Development, Startups, Mobile, Programming]
+  keywords:
+    [Blog, Portfolio, Technology, Development, Startups, Mobile, Programming]
   author: "Batista Harahap"
-  
+
   # Theme behavior
   showToc: false
   tocOpen: false
   hidemeta: false
   disableShare: false
   comments: true
-  
+
   # Home page behavior
   homeInfoParams:
-    Title: "Hi there 👋"
-    Content: "Welcome to my blog where I write about technology, development, and life."
-  
+    Title: "Hi 👋"
+    Content: "I'm Tista, I write about tech, music and life."
+    imageUrl: "/content/images/tista.jpg"
+    imageWidth: 120
+    imageHeight: 120
+    imageTitle: "Batista Harahap"
+
   # Social metadata
   images: ["/content/images/tista.jpg"]
-  
+
   # Comments system
   disqusShortname: "bango29"
-  
+
   # Social links
   socialIcons:
     - name: "twitter"
       url: "https://twitter.com/tista"
-    - name: "github" 
+    - name: "github"
       url: "https://github.com/tistaharahap"
     - name: "linkedin"
       url: "https://linkedin.com/in/tista"
@@ -87,7 +92,7 @@ params:
   assets:
     disableHLJS: false
     disableFingerprinting: false
-    
+
   # Search
   fuseOpts:
     isCaseSensitive: false
