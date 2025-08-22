@@ -35,22 +35,9 @@
   <meta property="og:type" content="website">
 {{- end }}
 
-{{/* Priority: 1. .Params.image, 2. .Params.cover.image, 3. get-page-images fallback */}}
-{{- if .Params.image -}}
-  <meta property="og:image" content="{{ .Params.image | absURL }}">
-{{- else if .Params.cover.image -}}
-  {{- if (ne .Params.cover.relative true) }}
-    <meta property="og:image" content="{{ .Params.cover.image | absURL }}">
-  {{- else}}
-    <meta property="og:image" content="{{ (path.Join .RelPermalink .Params.cover.image ) | absURL }}">
-  {{- end}}
-{{- else }}
-  {{- with partial "_funcs/get-page-images" . }}
-    {{- range . | first 6 }}
-      <meta property="og:image" content="{{ .Permalink }}">
-    {{- end }}
-  {{- end }}
-{{- end }}
+{{/* Dynamic screenshot using SleekShot API */}}
+{{- $screenshotURL := printf "https://sleekshot-api.sleek-inc.app/pix/browser;dark;delay=1;width=1200;height=630;format=png/%s" .Permalink -}}
+<meta property="og:image" content="{{ $screenshotURL }}">
 
 {{- with .Params.audio }}
   {{- range . | first 6  }}
