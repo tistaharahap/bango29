@@ -1,10 +1,10 @@
 +++
 author = "Batista Harahap"
 categories = ["llm", "agent", "ai", "psychologist", "mental health"]
-date = 2025-09-10T23:20:00Z
+date = 2025-09-11T00:25:00Z
 description = ""
 draft = false
-slug = "chen-ai-psychologist.md"
+slug = "chen-ai-psychologist"
 tags = ["llm", "agent", "ai", "psychologist", "mental health"]
 title = "Chen AI Psychologist"
 
