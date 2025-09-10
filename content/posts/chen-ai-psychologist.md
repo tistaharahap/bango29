@@ -1,7 +1,7 @@
 +++
 author = "Batista Harahap"
+date = 2025-09-10T00:25:21+04:00
 categories = ["llm", "agent", "ai", "psychologist", "mental health"]
-date = 2025-09-11T00:25:00Z
 description = ""
 draft = false
 slug = "chen-ai-psychologist"
